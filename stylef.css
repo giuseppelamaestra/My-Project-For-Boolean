@@ -1,0 +1,88 @@
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+.quadrato {
+    width: 900px;
+    height: 650px;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    padding: 70px;
+    
+   
+    
+}
+
+.titolo {
+    text-align: center;
+    color: #00FF00;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+
+.logo {
+    width: 180px;
+    height: auto;
+    
+}
+
+
+
+.contenitorebottoni {
+   
+    background-color: #00FF00;
+    
+    height: 40px;
+
+    text-align: center;
+    
+}
+
+.bottoni {
+    margin-top: 1.5%;
+    font-size: 11px;
+   
+    
+}
+
+.sezione {
+    margin-top: 20px;
+    color: white;
+    font-family: sans-serif;
+    line-height: 1.2;
+}
+
+.barra1 {
+    height: 30px;
+    width: 300px;
+    background-color: rgb(234, 175, 99);
+    border-radius: 10px;
+}
+
+.barra2 {
+    height: 30px;
+    width: 600px;
+    background-color: rgb(64, 174, 64);
+    border-radius: 10px;
+}
+
+.barra3 {
+    height: 30px;
+    width: 150px;
+    background-color: rgb(219, 72, 72);
+    border-radius: 10px;
+}
+
+.monopattino {
+    font-size: 20px;
+}
+
+.vie {
+    font-size: 14px;
+    color: lightgray;
+}
